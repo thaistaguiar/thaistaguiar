@@ -77,6 +77,6 @@
 ###
 
 <!--Gif-->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="450" src="https://cdn.discordapp.com/attachments/1123767055045382145/1234573197924499516/depz7pg-cec2dc5d-a328-4509-9987-f9c1d638cf73.gif?ex=66313963&is=662fe7e3&hm=0e2d1e5507090c86ecafb8e6b6fbbc84c653cdb24088bc57fd03e4aece138126&"  />
 
 ###
