@@ -1,5 +1,5 @@
 <!--title-->
-<h2 align="center">Hello World!!!</h2>
+<h1 align="center">Hello World!!!</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 ###
 
 <!--Links-->
-<div align="left">
+<div align="center">
   <a href="mailto: thaistaguiar@hotmail.com.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
@@ -44,7 +44,7 @@
 
 <!--GitHubStats-->
 <div>
-  <a href="https://github.com/thaistaguiar">
+  <a align="center" href="https://github.com/thaistaguiar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaistaguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thaistaguiar&layout=compact&langs_count=8&theme=synthwave"/>
 </div>
@@ -53,16 +53,20 @@
 ###
 
 <!--Portfolio-->
-<p align="left">Portfolio</p>
+<h2 align="center">
+  📝 Portfolio 📝
+</h2>
 
 ###
 
 <!--Skills-->
-<p align="left">Skills</p>
+<h2 align="center">
+  🔥 Skills 🔥
+</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -74,12 +78,5 @@
 
 <!--Gif-->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<!--Snake-->
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thaistaguiar/thaistaguiar/output/snake.svg" alt="Snake animation" />
 
 ###
