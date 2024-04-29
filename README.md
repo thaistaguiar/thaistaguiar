@@ -1,26 +1,83 @@
-### Hi there! 👋
+<!--title-->
+<h2 align="center">Hello World!!!</h2>
 
-- 🙋🏻‍♀️ My name is Thais Torres
-- 📖 I’m currently learning Python
+###
 
-<a href="https://github.com/thaistaguiar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaistaguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thaistaguiar&layout=compact&langs_count=8&theme=synthwave"/>
-<div>
-
-##
+<!--presentation-->
+<p>
+  Hi there👋, I'm Thais! A passionate Data Science student from Brazil.
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tata-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">  
+  - 📖 I’m currently studying Python and Data Science
+  
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Data Scientist
+  
+  </p>
+
+  <!--dropdown-->
+  <details>
+  <summary>👩‍💻 More about</summary>
+  
+  - 💬 I am 32 years old. I have fluency in English and have certificates in SQL, Python, Data Analysis and Data visualization.
+    
+  - 👩‍💼 My current job is in sales, which helped me develop important skills such as communication, team work, marketing, analytical capability, people management, dealing with public and others.
+    
+  - ⚡ I enjoy watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+    
+  </details>
+    
+###
+
+<!--Links-->
+<div align="left">
+  <a href="mailto: thaistaguiar@hotmail.com.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://instagram.com/thaistaguiar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thaistaguiar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-##
-  
-<div>
-  <a href = "mailto: thaistaguiar@hotmail.com.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thaistaguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/thaistaguiar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+###
+
+<!--GitHubStats-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thaistaguiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistaguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
- ![Snake animation](https://github.com/thaistaguiar/thaistaguiar/blob/output/github-contribution-grid-snake.svg)
+###
+
+<!--Portfolio-->
+<p align="left">Portfolio</p>
+
+###
+
+<!--Skills-->
+<p align="left">Skills</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<!--Gif-->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<!--Snake-->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thaistaguiar/thaistaguiar/output/snake.svg" alt="Snake animation" />
+
+###
