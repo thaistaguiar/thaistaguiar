@@ -52,26 +52,25 @@
 
 ###
 
-<!--Portfolio-->
-<h2 align="center">
+<!--Portfolio
+<h3 align="center">
   📝 Portfolio 📝
-</h2>
+</h3>-->
 
 ###
 
 <!--Skills-->
-<h2 align="center">
+<h3 align="center">
   🔥 Skills 🔥
-</h2>
+</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+• Python
+• SQL
+• Power BI
+•
 </div>
 
 ###
@@ -79,4 +78,3 @@
 <!--Gif-->
 <img align="center" height="450" src="https://cdn.discordapp.com/attachments/1123767055045382145/1234573197924499516/depz7pg-cec2dc5d-a328-4509-9987-f9c1d638cf73.gif?ex=66313963&is=662fe7e3&hm=0e2d1e5507090c86ecafb8e6b6fbbc84c653cdb24088bc57fd03e4aece138126&"  />
 
-###
