@@ -5,11 +5,22 @@
 
 <!--presentation-->
 <p>
-  Hi there👋, I'm Thais! A passionate Data Science student from Brazil.
+  Hi, I'm Thais 👋
+
+Project Coordinator based in Ottawa, Canada, with a background in operations, 
+people management, and customer service — and a genuine passion for learning 
+new tools and figuring out how things work.
+
+- 🔧 Currently building on foundations in SQL, Power BI, and Python through 
+self-directed learning, alongside Project Management and Scrum certifications.
+
+- 📊 This GitHub is where I used to practice and apply what I learn — from data queries 
+to small projects — as part of my ongoing journey into project coordination 
+and operations.
+
+- 🌎 Bilingual (English/Portuguese) | Based in Ottawa, ON | Open to Project 
+Coordinator and Operations roles
   
-  - 📖 I’m currently studying Python and Data Science
-  
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Data Scientist
   
   </p>
 
