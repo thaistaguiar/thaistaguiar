@@ -72,6 +72,8 @@ Coordinator and Operations roles
 • Python
 • SQL
 • Power BI
+• Sharepoint
+• Notion
 •
 </div>
 
