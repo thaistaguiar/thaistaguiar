@@ -25,16 +25,7 @@ Coordinator and Operations roles
   </p>
 
   <!--dropdown-->
-  <details>
-  <summary>👩‍💻 More about</summary>
-  
-  - 💬 I am 32 years old. I have fluency in English and have certificates in SQL, Python, Data Analysis and Data visualization.
-    
-  - 👩‍💼 My current job is in sales, which helped me develop important skills such as communication, team work, marketing, analytical capability, people management, dealing with public and others.
-    
-  - ⚡ I enjoy watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
-    
-  </details>
+
     
 ###
 
